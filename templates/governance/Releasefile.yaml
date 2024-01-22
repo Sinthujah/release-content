@@ -1,6 +1,11 @@
+# Exported from:        http://Sinthuja:5516/
+# Release version:      24.1.0-SNAPSHOT
+# Date created:         Mon Jan 22 17:22:28 IST 2024
+
 ---
 apiVersion: xl-release/v1
 kind: Import
 spec:
   imports:
-  - FinancialInstitutionGovernancePipeline.yaml
+  - Template_Financial Institution Governance Pipeline.yaml
+  - Template_Test Template1.yaml

@@ -1,3 +1,7 @@
+# Exported from:        http://Sinthuja:5516/
+# Release version:      24.1.0-SNAPSHOT
+# Date created:         Mon Jan 22 17:22:28 IST 2024
+
 ---
 apiVersion: xl-release/v1
 kind: Templates
@@ -9,8 +13,8 @@ spec:
     institution. It shows the various compliance and governance checks before each
     deployment gate and also the artifact certification process to ensure the right
     artifact is deployed.**'
-  scheduledStartDate: 2018-03-08T14:00:00Z
-  dueDate: 2018-03-08T15:00:00Z
+  scheduledStartDate: 2018-03-08T19:30:00+05:30
+  dueDate: 2018-03-08T20:30:00+05:30
   phases:
   - phase: dev
     tasks:
