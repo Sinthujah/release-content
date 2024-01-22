@@ -10,7 +10,7 @@ spec:
   phases:
   - phase: Delete Application in ArgoCD
     tasks:
-    - name: Specify RunAs user
+    - name: Specify RunAs user - test
       type: xlrelease.UserInputTask
       description: Specify the Run as user credentials which will be used to run the
         workflow. All automated tasks will be run as this user.
