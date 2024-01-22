@@ -4,7 +4,7 @@ kind: Templates
 metadata:
   home: Digital.ai - Official/Workflows/ArgoCD
 spec:
-- template: Install ArgoCD-test
+- template: Install ArgoCD-test2
   description: Install ArgoCD on Kubernetes cluster for deploying an Application in
     no time.
   scheduledStartDate: 2022-12-07T08:00:00Z
